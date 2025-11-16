@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da0c30e7cd6717c498e644eac501c2a0, type: 3}
+  m_Name: CoinData
+  m_EditorClassIdentifier: 
+  coinName: Coin
+  scoreValue: 1
+  pickupSfx: {fileID: 8300000, guid: 579623f393f105b48aa39cad89a56b78, type: 3}
+  pickupEffectPrefab: {fileID: 0}
+  coinPrefab: {fileID: 7360803355014512971, guid: c39588b9a56cf794288c4282ba137fee, type: 3}
